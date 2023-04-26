@@ -12,3 +12,12 @@ Demonstrates a few useful things like:
 - List of quotes -> link to individual quotes
 - Super-basic "login" form demonstrates PHP **sessions** 
 - Login form processing page redirects (never shows in browser)
+
+
+
+My task for Prac 07 is to demonstrate:
+* **Echo** - echoing different kinds of HTML
+* **Decisions** - if/else statements
+* **Repetition** - for, while, foreach (use an array)
+* **Functions** - with parameters
+* **Include** - Make two pages that include a common header and/or footer using
