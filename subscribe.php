@@ -27,6 +27,10 @@ include("inc_nav.php"); ?>
       <input type="radio" name="gender" value="female" id="gender_female">
       Female</label>
     <br>
+      <label>
+          <input type="radio" name="gender" value="rather not say" id="gender_not_stated">
+          Rather Not Say</label>
+      <br>
   </p>
   <p>
     <input type="submit" name="submit" id="submit" value="Subscribe">

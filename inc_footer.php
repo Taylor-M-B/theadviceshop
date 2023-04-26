@@ -2,7 +2,7 @@
     <p class="user"><?php
 // echo $_SESSION['blah']; // demo undefined variable
 if (isset($_SESSION['username'])) {
-    echo "Hello " . $_SESSION['username'];
+    echo "Logged in as " . $_SESSION['username'];
     echo " - <a href=\"logout.php?page=$name\">Logout</a>";
 }
 else {

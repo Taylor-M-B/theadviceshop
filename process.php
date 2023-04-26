@@ -35,6 +35,10 @@ else {
       <input type="radio" name="gender" value="female" id="gender_1">
       Female</label>
     <br>
+      <label>
+          <input type="radio" name="gender" value="rather not say" id="gender_2">
+          Rather Not Say</label>
+      <br>
   </p>
   <p>
     <input type="submit" name="submit" id="submit" value="Subscribe">
